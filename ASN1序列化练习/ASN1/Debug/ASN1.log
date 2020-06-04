@@ -1,0 +1,9 @@
+﻿  itcastderlog.c
+e:\3git\asn1序列化练习\asn1\itcastderlog.c(45): warning C4013: “open”未定义；假设外部返回 int
+e:\3git\asn1序列化练习\asn1\itcastderlog.c(105): warning C4013: “write”未定义；假设外部返回 int
+e:\3git\asn1序列化练习\asn1\itcastderlog.c(109): warning C4013: “close”未定义；假设外部返回 int
+  itcast_asn1_der.c
+  main.c
+  teacher.c
+  正在生成代码...
+  ASN1.vcxproj -> E:\3Git\ASN1序列化练习\Debug\ASN1.exe
